@@ -1,1 +1,2 @@
 Started learing Git and GitHub
+i changing this file to more understanding on pull request
